@@ -1,4 +1,4 @@
-
+Asana for macOS custom Automation - export to PDF and markdown support offers the most advanced Asana for macOS automation, with export to PDF and markdown support. Ideal for
 
 
 
